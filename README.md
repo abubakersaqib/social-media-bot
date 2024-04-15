@@ -5,9 +5,9 @@ The motivation behind this project is Hyperskills by Jetbrains. Woking and updra
 # Build Status
 Still in progess
 # Tech/Framework used
-Python
-Flask
-OpenAI
-Html
-Css
+Python,
+Flask,
+OpenAI,
+Html,
+Css.
 
